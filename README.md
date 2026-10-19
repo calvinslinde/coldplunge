@@ -11,7 +11,7 @@ A small app for building cold-water tolerance: log each session, get a goal that
 
 ## The coach
 
-The coach calls Gemini directly from the browser with a key you paste into Settings (a Google AI Studio key). The key stays in your browser's storage; nothing is sent anywhere but Google. Without a key, everything else still works.
+The coach calls Gemini directly from the browser with a key you paste into Settings (a Google AI Studio key). The key stays in your browser's storage, and nothing is sent anywhere but Google. Without a key, everything else still works.
 
 ## Run it locally
 
